@@ -1,20 +1,7 @@
 <div align=center>
 
 # 💀 BadUSB 💀
-
-<p align="center">
-      <a href="https://github.com/sponsors/I-Am-Jakoby">
-        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/Discord-Sponsor.png width="125" alt="Python" />
-      </a>	
-</p>
-
-Subscribing to my YouTube would also be greatly appreciated. 
-
-[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://jakoby.lol/yno)
-
-<img src= https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/disclaimer.png width="600" alt="C#" />
-</div>                 
-
+Educational purposes only
 # Table of Contents
 
 [Description](#Description)
