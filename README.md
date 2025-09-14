@@ -18,22 +18,9 @@
 
 ***  
 
-## Description 
-
-
-🥇 I am in 1st place for most payloads submitted to Hak5❗ 
-
-🔓 I have taken my colllection of payloads and formatted them to work for the Flipper for all of you to use❗
-
-⚠️ Please ENJOY and use RESPONSIBLY❗ 
-
-![hak 5](https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/hak5-banner.png)
-
 ## The Payloads 
 
 This repository has been optimized to facilitate plug and play functionality. 
-
-I purchased the domain `jakoby.lol` for the sole purpose of creating my own short URLs.
 
 I did this with the intention of making room for Discord webhooks and Dropbox tokens to fit in my one-liners.
 
