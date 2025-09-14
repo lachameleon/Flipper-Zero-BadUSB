@@ -14,8 +14,7 @@
 
 
 
-# Unleash the power of your Flipper 🤓💻
-
+# Some payloads
 ***  
 
 ## The Payloads 
